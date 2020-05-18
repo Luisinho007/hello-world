@@ -8,7 +8,6 @@
        <meta name="Author"  content="Seu nome aqui"/>
        <style>
        </style>
-       <a href="" link="stylesheet" ></a>
    </head>
    <body>
         <p>
